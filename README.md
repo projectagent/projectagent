@@ -1,6 +1,6 @@
 # Olá, eu sou o Arthur! 👋
 
-## Sou um entusiasta de tecnologia focado em construir soluções eficientes, analisar dados e explorar segurança defensiva/ofensiva. Atualmente, dedico meu tempo livre a realização de novos cursos para aprofundar meu conhecimento.
+### Sou um entusiasta de tecnologia focado em construir soluções eficientes, analisar dados e explorar segurança defensiva/ofensiva. Atualmente, dedico meu tempo livre a realização de novos cursos para aprofundar meu conhecimento.
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
