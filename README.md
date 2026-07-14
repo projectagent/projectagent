@@ -26,8 +26,7 @@ Claro! Sou um entusiasta de tecnologia focado em construir soluções eficientes
 
 ### 📊 Estatísticas do GitHub
 
-![Arthur Rossini GitHub stats](https://github-readme-stats.vercel.app/api?username=projectagent&show_icons=true&theme=radical)
----
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=projectagent&custom_title=Arthur%20Github%20status&show_icons=true&include_all_commits=true&theme=nightowl)](https://github-stats-extended.vercel.app/api?username=projectagent&custom_title=Arthur%20Github%20status&show_icons=true&include_all_commits=true&theme=nightowl)
 
 ### 📫 Como me encontrar
 
