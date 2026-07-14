@@ -26,7 +26,8 @@ Claro! Sou um entusiasta de tecnologia focado em construir soluções eficientes
 
 ### 📊 Estatísticas do GitHub
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=projectagent&custom_title=Arthur%20Github%20status&show_icons=true&include_all_commits=true&theme=nightowl)](https://github-stats-extended.vercel.app/api?username=projectagent&custom_title=Arthur%20Github%20status&show_icons=true&include_all_commits=true&theme=nightowl)
+[![](https://github-stats-extended.vercel.app/api?username=projectagent&custom_title=Arthur%20Github%20status&show_icons=true&include_all_commits=true&theme=nightowl)](https://github-stats-extended.vercel.app/api?username=projectagent&custom_title=Arthur%20Github%20status&show_icons=true&include_all_commits=true&theme=nightowl)
+[![](https://github-stats-extended.vercel.app/api/top-langs?username=projectagent&layout=compact&langs_count=6&theme=nightowl)](https://github-stats-extended.vercel.app/api/top-langs?username=projectagent&layout=compact&langs_count=6&theme=nightowl)
 
 ### 📫 Como me encontrar
 
