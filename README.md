@@ -1,6 +1,6 @@
 # Olá, eu sou o Arthur! 👋
 
-Sou um entusiasta de tecnologia focado em construir soluções eficientes, analisar dados e explorar segurança defensiva/ofensiva. Atualmente, dedico meu tempo livre a realização de novos cursos para aprofundar meu conhecimento.
+Sou um jovem de 21 anos que gosta muito de jogos, animes e tecnologia. Atualmente, dedico meu tempo livre a realização de novos cursos para aprofundar meu conhecimento.
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
@@ -32,7 +32,8 @@ Sou um entusiasta de tecnologia focado em construir soluções eficientes, anali
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/arthurrossini/)
 - 📧 [E-mail](mailto:oliveirarossinia@gmail.com)
-
+---
+![](https://i.pinimg.com/originals/fa/15/a7/fa15a7e2ffdd8f87dae3576100158cbf.gif)
 <!--
 **projectagent/projectagent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
