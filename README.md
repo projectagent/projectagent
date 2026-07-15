@@ -25,7 +25,7 @@ Sou um jovem de 21 anos que gosta muito de jogos, animes e tecnologia. Atualment
 
 ### 📊 Estatísticas do GitHub
 
-[![](https://github-stats-extended.vercel.app/api?username=projectagent&custom_title=Arthur%20Github%20status&show_icons=true&include_all_commits=true&theme=nightowl)](https://github-stats-extended.vercel.app/api?username=projectagent&custom_title=Arthur%20Github%20status&show_icons=true&include_all_commits=true&theme=nightowl)<br>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=projectagent&custom_title=Meus%20status%20GitHub&show_icons=true&include_all_commits=true&theme=nightowl)](https://github-stats-extended.vercel.app/api?username=projectagent&custom_title=Meus%20status%20GitHub&show_icons=true&include_all_commits=true&theme=nightowl)<br>
 [![](https://github-stats-extended.vercel.app/api/top-langs?username=projectagent&layout=compact&langs_count=6&theme=nightowl)](https://github-stats-extended.vercel.app/api/top-langs?username=projectagent&layout=compact&langs_count=6&theme=nightowl)
 
 ### 📫 Como me encontrar
