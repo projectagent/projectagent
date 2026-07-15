@@ -33,7 +33,9 @@ Sou um jovem de 21 anos que gosta muito de jogos, animes e tecnologia. Atualment
 - 💼 [LinkedIn](https://www.linkedin.com/in/arthurrossini/)
 - 📧 [E-mail](mailto:oliveirarossinia@gmail.com)
 ---
- <img src="https://i.pinimg.com/originals/22/81/36/228136787949a85c103a630c753726aa.gif" alt="GIF da internet">
+<p align="center">
+  <img width="498" height="280" alt="Image" src="https://github.com/user-attachments/assets/1d9b016b-90a5-4914-9980-2646a41bb912" />
+</p>
 
 <!--
 **projectagent/projectagent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
