@@ -29,10 +29,13 @@ Sou um jovem de 21 anos que gosta muito de jogos, animes e tecnologia. Atualment
 [![](https://github-stats-extended.vercel.app/api/top-langs?username=projectagent&layout=compact&langs_count=6&theme=nightowl)](https://github-stats-extended.vercel.app/api/top-langs?username=projectagent&layout=compact&langs_count=6&theme=nightowl)
 
 ### 📫 Como me encontrar
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/arthurrossini/)
 - 📧 [E-mail](mailto:oliveirarossinia@gmail.com)
 ---
+<p align="center">
+  <i>"A persistência é o caminho do êxito."</i>
+  <br><br>
+  Desenvolvido por <b>Arthur</b> — Conecte-se comigo no <a href="https://www.linkedin.com/in/arthurrossini/">LinkedIn</a> 🚀
+</p>
 <p align="center">
   <img width="498" height="280" alt="Image" src="https://github.com/user-attachments/assets/1d9b016b-90a5-4914-9980-2646a41bb912" />
 </p>
