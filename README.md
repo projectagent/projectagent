@@ -34,7 +34,7 @@ Sou um jovem de 21 anos que gosta muito de jogos, animes e tecnologia. Atualment
 <p align="center">
   <i>"A persistência é o caminho do êxito."</i>
   <br><br>
-  Desenvolvido por <b>Arthur</b> — Conecte-se comigo no <a href="https://www.linkedin.com/in/arthurrossini/">LinkedIn</a> 🚀
+ <a>Conecte-se comigo no <a href="https://www.linkedin.com/in/arthurrossini/">LinkedIn</a> 🚀
 </p>
 <p align="center">
   <img width="498" height="280" alt="Image" src="https://github.com/user-attachments/assets/1d9b016b-90a5-4914-9980-2646a41bb912" />
