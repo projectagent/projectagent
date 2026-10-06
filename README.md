@@ -19,7 +19,7 @@ Sou um jovem de 21 anos que gosta muito de jogos, animes e tecnologia. Atualment
 
 - 🎓 Graduando em **Engenharia de Software (EAD)** pela **Uninter**.
 - 🚀 Ampliando meus conhecimentos práticos através de cursos de tecnologia na **DIO**.
-- 💻 Configuração de ambientes locais para estudo e projetos.
+- 💻 Configurando ambiente de trabalho para realização do projeto de extensão da Faculdade.
 
 ---
 
