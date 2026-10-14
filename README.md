@@ -1,6 +1,6 @@
 # Olá, eu sou o Arthur! 👋
 
-### Sou um jovem de 21 anos que gosta muito de jogos, animes e tecnologia. Atualmente, dedico meu tempo livre a realização de novos cursos para aprofundar meu conhecimento.
+### Sou um jovem de 21 anos que gosta muito de jogos, animes e tecnologia. Atualmente, dedicando meu tempo livre a leituras e estruturação de um aplicativo de rotas de entrega!
 ---
 
 ### **Front-end (Landing Pages)**  
