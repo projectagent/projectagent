@@ -17,6 +17,9 @@
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ---
+### 📫 Como me encontrar
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthurrossini)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oliveirarossinia@gmail.com)
 
 ### 📂 No que estou trabalhando / Estudando
 
@@ -31,9 +34,6 @@
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=projectagent&custom_title=Meus%20status%20GitHub&show_icons=true&include_all_commits=true&theme=nightowl)](https://github-stats-extended.vercel.app/api?username=projectagent&custom_title=Meus%20status%20GitHub&show_icons=true&include_all_commits=true&theme=nightowl)
 [![](https://github-stats-extended.vercel.app/api/top-langs?username=projectagent&layout=compact&langs_count=6&theme=nightowl)](https://github-stats-extended.vercel.app/api/top-langs?username=projectagent&layout=compact&langs_count=6&theme=nightowl)
 
-### 📫 Como me encontrar
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthurrossini)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oliveirarossinia@gmail.com)
 ---
 <p align="center">
   <i>"A persistência é o caminho do êxito."</i>
