@@ -1,15 +1,21 @@
 # Olá, eu sou o Arthur! 👋
 
-Sou um jovem de 21 anos que gosta muito de jogos, animes e tecnologia. Atualmente, dedico meu tempo livre a realização de novos cursos para aprofundar meu conhecimento.
+### Sou um jovem de 21 anos que gosta muito de jogos, animes e tecnologia. Atualmente, dedico meu tempo livre a realização de novos cursos para aprofundar meu conhecimento.
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### **Front-end (Landing Pages)**  
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<!-- Badges dinâmicos usando Shields.io -->
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### **Back-end & Banco de Dados (Em estudo)**  
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/SQL_Relacional-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-
+### **Ambiente & Versionamento**  
+![](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ---
 
 ### 📂 No que estou trabalhando / Estudando
@@ -22,32 +28,18 @@ Sou um jovem de 21 anos que gosta muito de jogos, animes e tecnologia. Atualment
 
 ### 📊 Estatísticas do GitHub
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=projectagent&custom_title=Meus%20status%20GitHub&show_icons=true&include_all_commits=true&theme=nightowl)](https://github-stats-extended.vercel.app/api?username=projectagent&custom_title=Meus%20status%20GitHub&show_icons=true&include_all_commits=true&theme=nightowl)<br>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=projectagent&custom_title=Meus%20status%20GitHub&show_icons=true&include_all_commits=true&theme=nightowl)](https://github-stats-extended.vercel.app/api?username=projectagent&custom_title=Meus%20status%20GitHub&show_icons=true&include_all_commits=true&theme=nightowl)
 [![](https://github-stats-extended.vercel.app/api/top-langs?username=projectagent&layout=compact&langs_count=6&theme=nightowl)](https://github-stats-extended.vercel.app/api/top-langs?username=projectagent&layout=compact&langs_count=6&theme=nightowl)
 
 ### 📫 Como me encontrar
-- 📧 [E-mail](mailto:oliveirarossinia@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthurrossini)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oliveirarossinia@gmail.com)
 ---
 <p align="center">
   <i>"A persistência é o caminho do êxito."</i>
   <br><br>
- <a>Conecte-se comigo no <a href="https://www.linkedin.com/in/arthurrossini/">LinkedIn</a> 🚀
 </p>
 <p align="center">
   <img width="498" height="280" alt="Image" src="https://github.com/user-attachments/assets/1d9b016b-90a5-4914-9980-2646a41bb912" />
 </p>
 
-<!--
-**projectagent/projectagent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
