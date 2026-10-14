@@ -1,6 +1,6 @@
 # Olá, eu sou o Arthur! 👋
 
-### Sou um jovem de 21 anos que gosta muito de jogos, animes e tecnologia. Atualmente, dedicando meu tempo livre a leituras e estruturação de um aplicativo de rotas de entrega!
+### Amante de tecnologia, jogos e animes. Estou fazendo faculdade EAD de Engenharia de Software, enquanto trabalho e aprofundo meus conhecimentos realizando cursos na DIO.
 ---
 
 ### **Front-end (Landing Pages)**  
